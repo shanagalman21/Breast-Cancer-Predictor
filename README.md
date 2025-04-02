@@ -1,1 +1,1 @@
-# Breast-Cancer-Predictor
+# Breast Cancer Predictor
