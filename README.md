@@ -22,4 +22,10 @@ Run the application locally:
 ```bash
 streamlit run app.py
 ```
+## Usage
+
+1. Enter values for the cell nuclei features in the sidebar.
+2. The radar chart will visualize the input values.
+3. The model will predict whether the mass is benign or malignant.
+
 
