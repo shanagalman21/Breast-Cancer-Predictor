@@ -8,3 +8,18 @@ The dataset used for this project is a public dataset collected from this [link]
 
 A [live version](https://breast-cancer-predictor-cokusege2kdr8hmypzqkhh.streamlit.app/) of this application is also available for access.
 
+## Installation
+
+Clone the repository: 
+```bash
+git clone https://github.com/shanagalman21/Breast-Cancer-Predictor.git
+```
+Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+Run the application locally:
+```bash
+streamlit run app.py
+```
+
