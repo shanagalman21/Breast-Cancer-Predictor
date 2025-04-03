@@ -20,7 +20,7 @@ pip install -r requirements.txt
 ```
 Run the application locally:
 ```bash
-streamlit run app.py
+streamlit run app/main.py
 ```
 ## Usage
 
